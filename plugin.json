@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "blb-support",
+  "version": "0.1.0",
+  "description": "Read/triage BigLaw Bear support_issues for Clerk ops (list, resolve, escalate bugs to Builder).",
+  "author": {
+    "name": "tinkabot"
+  },
+  "keywords": [
+    "biglaw-bear",
+    "support",
+    "supabase",
+    "clerk",
+    "mcp"
+  ]
+}
